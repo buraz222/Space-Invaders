@@ -60,9 +60,6 @@ Dijagram klasa možete izraditi pomoću alata poput [draw.io](https://app.diagra
 
 ## Autori
 
-- **Vaše ime**
+- **Dinko Čavrag**
 
-## Licenca
-
-Ovaj projekt je objavljen pod MIT licencom.
 
