@@ -58,7 +58,7 @@ Dijagram klasa možete izraditi pomoću alata poput [draw.io](https://app.diagra
 │── explosion1.png - explosion5.png  # Animacije eksplozije
 ```
 
-## Autori
+## Autor
 
 - **Dinko Čavrag**
 
