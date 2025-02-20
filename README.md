@@ -47,7 +47,6 @@ python game.py
 - **EnemyBullet** - klasa za metke neprijatelja
 - **Explosion** - klasa za eksplozije
 
-&#x20;*(Dodajte stvarnu sliku UML dijagrama ovdje)*
 
 ## Struktura Projekta
 
