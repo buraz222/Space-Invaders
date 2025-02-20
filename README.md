@@ -21,9 +21,10 @@ pip install pygame
 
 ### Pokretanje igre:
 
-1. Klonirajte repozitorij ili preuzmite kod.
-2. U terminalu, navigirajte do direktorija projekta.
-3. Pokrenite igru pomoću naredbe:
+1. Klonirajte repozitorij ili preuzmite
+2. Raspakirajte ZIP
+3. Navigirajte do direktorija projekta u VSCode.
+4. Pokrenite igru u terminalu pomoću naredbe:
 
 ```bash
 python game.py
@@ -37,7 +38,7 @@ python game.py
 
 ## UML Dijagram
 
-Dijagram klasa možete izraditi pomoću alata poput [draw.io](https://app.diagrams.net/). Preporučeni dijagram uključuje:
+
 
 - **Player** - klasa koja predstavlja igrača
 - **Enemy** - klasa za neprijatelje
