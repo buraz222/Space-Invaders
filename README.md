@@ -38,6 +38,7 @@ python game.py
 
 ## UML Dijagram
 
+![{FA3277F7-CC44-4963-BE4E-521B5A860154}](https://github.com/user-attachments/assets/3bcb26dc-1ab8-4ba0-a961-50d6f82b199e)
 
 
 - **Player** - klasa koja predstavlja igrača
